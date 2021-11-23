@@ -17,3 +17,5 @@ Kristina
 =======
 Sylvia Cingelová
 >>>>>>> main
+
+Katarína Hreusíková

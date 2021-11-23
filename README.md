@@ -11,3 +11,4 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 
 # Učastníčky kurzu:
 Sylvia Cingelová
+Katarína Hreusíková

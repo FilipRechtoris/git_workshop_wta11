@@ -11,5 +11,9 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 - git pull
 
 # Učastníčky kurzu:
+<<<<<<< HEAD
 
 Kristina
+=======
+Sylvia Cingelová
+>>>>>>> main

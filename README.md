@@ -10,5 +10,6 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 * git pull 
 
 # Učastníčky kurzu:
+Sylvia Cingelová +
 Sylvia Cingelová
 Katarína Hreusíková

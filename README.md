@@ -11,11 +11,10 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 - git pull
 
 # Učastníčky kurzu:
-Katarína Hreusíková
-Stanka Fridrichova
-Katarina Strakova
-Kristina
-Sylvia Cingelová
+Katarína Hreusíková 
+Stanka Fridrichova 
+Katarina Strakova 
+Kristina 
+Sylvia Cingelová 
 Denisa Balogova
-
 

@@ -7,3 +7,4 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 * git pull
 * git branch
 * git konflikty
+* git pull 

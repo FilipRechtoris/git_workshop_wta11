@@ -11,3 +11,5 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 
 # Učastníčky kurzu:
 Stanka Fridrichova
+Sylvia Cingelová
+Katarína Hreusíková

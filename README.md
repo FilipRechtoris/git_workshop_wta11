@@ -19,3 +19,5 @@ Sylvia Cingelová
 >>>>>>> main
 
 Katarína Hreusíková
+
+Sylvia Cingelová +

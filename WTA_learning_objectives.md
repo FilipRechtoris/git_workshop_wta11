@@ -85,7 +85,7 @@ Nová fáza začína až po konci predchádzajúcej, Testovanie štandardne až 
 - PUT
 - DELETE
 
--a este ze sa pouziva format **JSON** {"key": "value"}
+-pouziva sa format **JSON** {"key": "value"}
 
 -na automatizaciu sa pouziva nastroj Postman, ale z toho si uz nepamatam zase dokopy nic :)
 

@@ -21,7 +21,7 @@ je súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérov�
 - Test design v priebehu testovania
 - Okamžité reportovanie a vyhodnotenie
 
-Skusali sme si ho na stranke [Kiwi (https://www.kiwi.com)]
+Skusali sme si ho na stranke [Kiwi](https://www.kiwi.com)
 
 # Jira and Bug
 
@@ -60,15 +60,15 @@ Nová fáza začína až po konci predchádzajúcej, Testovanie štandardne až 
 
 # HTML, CSS, JavaScript
 
-## HTML
+### HTML
 
--definuje struktiru stranky
+-definuje strukturu stranky
 
-## CSS
+### CSS
 
 -definuje ako ma stranka vyzerat/ rozmiestnenie elementov, farba, pismo, odsadenia
 
-## JavaScript
+### JavaScript
 
 -Programovaci jazyk - vie so strankou uz pracovat, vykonavat akcie
 
@@ -78,28 +78,28 @@ Nová fáza začína až po konci predchádzajúcej, Testovanie štandardne až 
 
 # Testovanie API
 
--tu som si zapamatala dost malo, napr. metody HTTP requestov
+**Metody HTTP requestov**
 
 - GET
 - POST
 - PUT
 - DELETE
 
--a este ze sa pouziva format JSON {"key": "value"}
+-a este ze sa pouziva format **JSON** {"key": "value"}
 
 -na automatizaciu sa pouziva nastroj Postman, ale z toho si uz nepamatam zase dokopy nic :)
 
 # SQL
 
-= Structured Query Language
+**Structured Query Language**
 
 -navrhnutý pre manažovanie dát v relačných databázach
 
 ## Základné syntaktické konštrukcie jazyka SQL
 
-- SELECT - Získanie dát
-- INSERT - Vloženie dát
-- UPDATE - Upravenie existujúcich dát
-- DELETE - Zmazanie dát
+- **SELECT** - Získanie dát
+- **INSERT** - Vloženie dát
+- **UPDATE** - Upravenie existujúcich dát
+- **DELETE** - Zmazanie dát
 
 # Robot Framework

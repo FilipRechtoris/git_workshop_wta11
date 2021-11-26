@@ -1,4 +1,4 @@
-# Úvod do testovania
+# 1. Úvod do testovania
 
 ## Testovanie
 
@@ -27,7 +27,7 @@ Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 - Testovanie je závislé na kontexte.
 - Falošná predstava o neexistencii omylov.
 
-# Session based testing
+# 2. Session based testing
 
 - Kontrolovaný exploratory testing
 - Rýchle objavenie chýb
@@ -68,17 +68,17 @@ Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 Skusali sme si ho na stranke [Kiwi](https://www.kiwi.com)
 
 
-# Jira and Bug
+# 3. Jira and Bug
 
 Jira je nástroj na riadenie projektov (zadávanie úloh, bugov ...)
 
 -tu bolo pre mna najtazsie urcit spravnu prioritu a severitu..
 
-# Manažment testovania
+# 4. Manažment testovania
 
 Je plánovanie a riadenie testov. Skúšali sme si to v Testrail (platforma na manažovanie testov).
 
-# Modely vývoja software-u
+# 5. Modely vývoja software-u
 
 ## Sekvencne
 
@@ -93,7 +93,7 @@ Nová fáza začína až po konci predchádzajúcej, Testovanie štandardne až 
 - RAD – Rapid Application Development
 - Agilný/Inkrementálny vývoj
 
-# Techniky tvorby testov
+# 6. Techniky tvorby testov
 
 ## Zalozene na specifikacii (Black Box) - Nedokazeme merat pokrytie SW
 
@@ -109,7 +109,7 @@ Používané ak poznáme štruktúru kódu.
 
 ## Zalozene na skusenostiach
 
-# HTML, CSS, JavaScript
+# 7. HTML, CSS, JavaScript
 
 ### HTML
 
@@ -125,13 +125,13 @@ Hypertext Markup Language - popisný jazyk
 
 -Programovaci jazyk - vie so strankou uz pracovat, vykonavat akcie
 
-# Nástroje testovania
+# 8. Nástroje testovania
 
 -Z tohto som megablba :))), testovanie pokrytia je smrrrrt...
 
 Pri realizovaní testovania môžeme používať nástroje k tomu určené ako Jira s pluginmi Xray a Zephyr, Testrail
 
-# Testovanie API
+# 9. Testovanie API
 
 Api je sktratka pri skratka pre Application Programming Interface
 
@@ -146,7 +146,7 @@ Api je sktratka pri skratka pre Application Programming Interface
 
 -na automatizaciu sa pouziva nastroj Postman, ale z toho si uz nepamatam zase dokopy nic :)
 
-# SQL
+# 10. SQL
 
 **Structured Query Language**
 
@@ -163,6 +163,6 @@ DDL - jazyk definíciu údajov
 - **UPDATE** - Upravenie existujúcich dát
 - **DELETE** - Zmazanie dát
 
-# Robot Framework
+# 11. Robot Framework
 
 je nástroj určený na automatizáciu testov

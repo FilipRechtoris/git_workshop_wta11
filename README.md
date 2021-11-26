@@ -9,6 +9,7 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 - git branch
 - git konflikty
 - git pull
+- git pull
 
 # Učastníčky kurzu:
 Katarína Hreusíková 
@@ -17,4 +18,4 @@ Katarina Strakova
 Kristina 
 Sylvia Cingelová 
 Denisa Balogova
-
+Monika Labanová

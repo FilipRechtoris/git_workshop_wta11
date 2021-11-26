@@ -33,32 +33,31 @@ Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 - Okamžité reportovanie a vyhodnotenie
 
 
-## MISSION:
+### MISSION:
    Definuje význam testovania. Jednoduchý popis na čo sa má tester zamerať. Napr. Otestujte základnú funkcionalitu kalkulačky.
 
-## CHARTER:
+### CHARTER:
    Zoznam toho čo sa bude testovať v rámci jednej session. Napr. Otestujte v rámci jednej session spočítanie a odpočítanie.
 
 ## SESSION:
-	Definuje rámec, v rámci ktorého sa bude testovať.
-	Obvykle 45-120min
-	Nepretržité a nerušené testovanie
-	Zameraná na úlohy z charteru
-	Testovanie na základe nápadov, skúseností, heuristike (návodu)
+- Definuje rámec, v rámci ktorého sa bude testovať.
+- Obvykle 45-120min
+- Nepretržité a nerušené testovanie
+- Zameraná na úlohy z charteru
+- Testovanie na základe nápadov, skúseností, heuristike (návodu)
 
 ## REPORT
-•	Charter = zoznam úloh 
-•	Oblasť, ktorá bola testovaná
-•	Popis, ako bol testing vykonávaný
-•	Zoznam testovacích prípadov
-•	Zoznam chýb v .xls
-•	Zoznam problémov, otázok, nejasností
-•	Podiel z celkového času strávenom na
+-	Charter = zoznam úloh
+-	Oblasť, ktorá bola testovaná
+-	Popis, ako bol testing vykonávaný
+-	Zoznam testovacích prípadov
+-	Zoznam chýb v .xls
+-	Zoznam problémov, otázok, nejasností
+-	Podiel z celkového času strávenom na
 	- Testovaní
 	- Popisovaní a dohľadávaní bugov
 	- Príprava na session a iné aktivity nesúvisiace s testovaním
-
-•	Čas začiatku a celkovo strávený čas
+-	Čas začiatku a celkovo strávený čas
 
 ## VYHODNOTENIE
    Diskusia manažér vs. tester o reporte.

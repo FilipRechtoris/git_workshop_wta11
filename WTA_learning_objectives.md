@@ -4,6 +4,10 @@
 
 je súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérového produktu z hľadiska funkčnosti, spoľahlivosti, použiteľnosti, výkonnosti či bezpečnosti
 
+Poskytuje objektívny, nezávislý pohľad na kvalitu softvéru a poukazuje na riziká pri jeho vývoji.
+
+Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
+
 ## 7 princípov testovania
 
 - Testovanie ukazuje prítomnosť defektov ale nikdy ich neprítomnosť
@@ -21,13 +25,19 @@ je súbor procesov a činností, ktoré slúžia na kontrolu kvality softvérov�
 - Test design v priebehu testovania
 - Okamžité reportovanie a vyhodnotenie
 
+Session - definuje rámec v rámci ktorého sa bude testovať, nepretržite a nerušenie obyčajne od 45-120min.
+
 Skusali sme si ho na stranke [Kiwi](https://www.kiwi.com)
 
 # Jira and Bug
 
+Jira je nástroj na riadenie projektov (zadávanie úloh, bugov ...)
+
 -tu bolo pre mna najtazsie urcit spravnu prioritu a severitu..
 
 # Manažment testovania
+
+Je plánovanie a riadenie testov. Skúšali sme si to v Testrail (platforma na manažovanie testov).
 
 # Modely vývoja software-u
 
@@ -56,11 +66,15 @@ Nová fáza začína až po konci predchádzajúcej, Testovanie štandardne až 
 
 ## Zalozene na strukture (White Box) – Vieme merat rozsah pokrytia
 
+Používané ak poznáme štruktúru kódu.
+
 ## Zalozene na skusenostiach
 
 # HTML, CSS, JavaScript
 
 ### HTML
+
+Hypertext Markup Language - popisný jazyk
 
 -definuje strukturu stranky
 
@@ -76,7 +90,11 @@ Nová fáza začína až po konci predchádzajúcej, Testovanie štandardne až 
 
 -Z tohto som megablba :))), testovanie pokrytia je smrrrrt...
 
+Pri realizovaní testovania môžeme používať nástroje k tomu určené ako Jira s pluginmi Xray a Zephyr, Testrail
+
 # Testovanie API
+
+Api je sktratka pri skratka pre Application Programming Interface
 
 **Metody HTTP requestov**
 
@@ -95,6 +113,10 @@ Nová fáza začína až po konci predchádzajúcej, Testovanie štandardne až 
 
 -navrhnutý pre manažovanie dát v relačných databázach
 
+Delí sa na:
+DML - jazyk na manipuláciu dát
+DDL - jazyk definíciu údajov
+
 ## Základné syntaktické konštrukcie jazyka SQL
 
 - **SELECT** - Získanie dát
@@ -103,3 +125,5 @@ Nová fáza začína až po konci predchádzajúcej, Testovanie štandardne až 
 - **DELETE** - Zmazanie dát
 
 # Robot Framework
+
+je nástroj určený na automatizáciu testov

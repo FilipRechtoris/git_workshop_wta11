@@ -9,6 +9,7 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 - git branch
 - git konflikty
 - git pull
+- git konflikty
 - git pull
 
 # Učastníčky kurzu:

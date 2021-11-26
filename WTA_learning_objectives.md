@@ -13,6 +13,8 @@ Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 - funkcionálne
 - nefunkcionálne (použiteľnosť, bezpečnosť, spoľahlivosť, výkonnosť)
 
+## QUALITY ASSURANCE vs QUALITY CONTROL vs TESTING
+
 ## 7 princípov testovania
 
 - Testovanie ukazuje prítomnosť defektov ale nikdy ich neprítomnosť
@@ -30,7 +32,37 @@ Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 - Test design v priebehu testovania
 - Okamžité reportovanie a vyhodnotenie
 
-Session - definuje rámec v rámci ktorého sa bude testovať, nepretržite a nerušenie obyčajne od 45-120min.
+
+## MISSION:
+   Definuje význam testovania. Jednoduchý popis na čo sa má tester zamerať. Napr. Otestujte základnú funkcionalitu kalkulačky.
+
+## CHARTER:
+   Zoznam toho čo sa bude testovať v rámci jednej session. Napr. Otestujte v rámci jednej session spočítanie a odpočítanie.
+
+## SESSION:
+	Definuje rámec, v rámci ktorého sa bude testovať.
+	Obvykle 45-120min
+	Nepretržité a nerušené testovanie
+	Zameraná na úlohy z charteru
+	Testovanie na základe nápadov, skúseností, heuristike (návodu)
+
+## REPORT
+•	Charter = zoznam úloh 
+•	Oblasť, ktorá bola testovaná
+•	Popis, ako bol testing vykonávaný
+•	Zoznam testovacích prípadov
+•	Zoznam chýb v .xls
+•	Zoznam problémov, otázok, nejasností
+•	Podiel z celkového času strávenom na
+	- Testovaní
+	- Popisovaní a dohľadávaní bugov
+	- Príprava na session a iné aktivity nesúvisiace s testovaním
+
+•	Čas začiatku a celkovo strávený čas
+
+## VYHODNOTENIE
+   Diskusia manažér vs. tester o reporte.
+
 
 Skusali sme si ho na stranke [Kiwi](https://www.kiwi.com)
 

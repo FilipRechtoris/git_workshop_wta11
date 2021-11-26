@@ -13,7 +13,9 @@ Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 - funkcionálne
 - nefunkcionálne (použiteľnosť, bezpečnosť, spoľahlivosť, výkonnosť)
 
-## QUALITY ASSURANCE vs QUALITY CONTROL vs TESTING
+
+### QUALITY ASSURANCE vs QUALITY CONTROL vs TESTING
+
 
 ## 7 princípov testovania
 
@@ -39,14 +41,14 @@ Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 ### CHARTER:
    Zoznam toho čo sa bude testovať v rámci jednej session. Napr. Otestujte v rámci jednej session spočítanie a odpočítanie.
 
-## SESSION:
+### SESSION:
 - Definuje rámec, v rámci ktorého sa bude testovať.
 - Obvykle 45-120min
 - Nepretržité a nerušené testovanie
 - Zameraná na úlohy z charteru
 - Testovanie na základe nápadov, skúseností, heuristike (návodu)
 
-## REPORT
+### REPORT
 -	Charter = zoznam úloh
 -	Oblasť, ktorá bola testovaná
 -	Popis, ako bol testing vykonávaný
@@ -59,11 +61,12 @@ Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 	- Príprava na session a iné aktivity nesúvisiace s testovaním
 -	Čas začiatku a celkovo strávený čas
 
-## VYHODNOTENIE
+### VYHODNOTENIE
    Diskusia manažér vs. tester o reporte.
 
 
 Skusali sme si ho na stranke [Kiwi](https://www.kiwi.com)
+
 
 # Jira and Bug
 

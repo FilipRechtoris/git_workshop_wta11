@@ -8,6 +8,11 @@ Poskytuje objektívny, nezávislý pohľad na kvalitu softvéru a poukazuje na r
 
 Môže dokázať prítomnosť chýb, ale nikdy ich neprítomnosť.
 
+
+## Testovanie môže byť:
+- funkcionálne
+- nefunkcionálne (použiteľnosť, bezpečnosť, spoľahlivosť, výkonnosť)
+
 ## 7 princípov testovania
 
 - Testovanie ukazuje prítomnosť defektov ale nikdy ich neprítomnosť

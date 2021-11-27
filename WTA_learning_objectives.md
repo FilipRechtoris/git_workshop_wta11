@@ -123,7 +123,11 @@ Hypertext Markup Language - popisný jazyk
 
 ### JavaScript
 
--Programovaci jazyk - vie so strankou uz pracovat, vykonavat akcie
+-Programovaci jazyk - vie so strankou uz pracovat, vykonavat akcie - vie manipulovať s elementami, vytvárať, odoberať, editovať
+
+### Element
+- samostatná jednotka na stránke, HTML stránka sa skladá z elementov
+
 
 # 8. Nástroje testovania
 

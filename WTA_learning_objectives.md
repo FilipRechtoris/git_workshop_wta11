@@ -73,6 +73,9 @@ Skusali sme si ho na stranke [Kiwi](https://www.kiwi.com)
 Jira je nástroj na riadenie projektov (zadávanie úloh, bugov ...)
 
 -tu bolo pre mna najtazsie urcit spravnu prioritu a severitu..
+Priorita - ako rýchlo má byť chyba opravená
+Severita - aký dopad má chyba
+
 
 # 4. Manažment testovania
 

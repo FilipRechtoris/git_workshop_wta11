@@ -1,1 +1,2 @@
-farba oci: zelena
+farba oci: hnedozelena
+vlasy hnede

@@ -1,2 +1,0 @@
-farba oci: modra
-farba vlasov: hneda

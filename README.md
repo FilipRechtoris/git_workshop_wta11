@@ -13,7 +13,7 @@ V rámci workshopu rozhodne pokryjeme nasledovné príkazy:
 - git pull
 
 # Učastníčky kurzu:
-<<<<<<< Updated upstream
+Andrea Noszáková 
 Katarína Hreusíková 
 Stanka Fridrichova 
 Katarina Strakova 
